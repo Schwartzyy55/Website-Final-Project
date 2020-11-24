@@ -5,8 +5,12 @@
 }
 /* blue header on top of page ------------------------------------------------------- */
 header h1 {
-    text-align: center;
-    background-color: navy;
+    text-align: left;
+    background-image: url(logo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: rgb(40,50,76);
     padding: 50px;
 
 }
