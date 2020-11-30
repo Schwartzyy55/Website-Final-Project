@@ -239,6 +239,104 @@ body img.Mechanix{
     float: left;
     border: 2px solid black;
 }
+
+/* Background color for Chris's Pages ------------------*/
+body.basketball {
+ background-color: #f8e4b8;
+}
+
+/* Body Formatting for Chris's Basketball Page--------------------------------------------- */
+
+body h1.Basketball {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  background-color: #cf0820;
+  padding: 50px;
+  border: 2px solid black;
+  text-shadow: 2px 1px black;
+}
+
+
+body img.Basketball {
+  margin: 10px;
+  width: 400px;
+  height: 200px;
+  float: left;
+  border: 5px solid black;
+
+}
+
+body p.Basketball {
+  margin: 30px;
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 2;
+  color: black;
+
+}
+/* Body Formatting for Chris's Pistons Page--------------------------------------------- */
+
+
+body h1.pistons {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  background-color: #cf0820;
+  padding: 50px;
+  border: 2px solid black;
+  text-shadow: 2px 1px black;
+}
+
+
+body img.pistons {
+  margin: 10px;
+  width: 400px;
+  height: 300px;
+  float: left;
+  border: 5px solid black;
+
+}
+
+body p.pistons {
+  margin: 25px;
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 2;
+  color: black;
+
+}
+/* Body Formatting for Chris's Lakers Page--------------------------------------------- */
+
+
+body h1.lakers {
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  background-color: darkgoldenrod;
+  padding: 50px;
+  border: 2px solid black;
+  text-shadow: 2px 1px black;
+}
+
+
+body img.lakers {
+  margin: 10px;
+  width: 400px;
+  height: 200px;
+  float: left;
+  border: 5px solid black;
+
+}
+
+body p.lakers {
+  margin: 25px;
+  font-family: sans-serif;
+  font-size: 18px;
+  line-height: 2;
+  color: black;
+
+}
 /* --Slideshow CSS------------------------------------------- */
 
 /* Slideshow container */
