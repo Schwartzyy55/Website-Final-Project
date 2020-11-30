@@ -170,7 +170,75 @@ body p.griffins {
   color: black;
 }
 
+/* Body page for Gibson Extreme Frisbee--------------------------------*/
+body.EF{
+    background-color: #f8e4b8;
+}
+body h1.EF{
+    font-size: 65px;
+    text-align: center;
+    padding: 10px;
+    border: 3px solid black;
+    background-color: white;
+}
+body p.EF{
+    margin-top: 25px;
+    font-size: 25px;
+    font-family: sans-serif;
+    line-height: 2;
+    color: black;
+}
+body img.EF{
+    border: 3px solid black;
+    float: left;
+}
+/*  Body page for Cascades------------------------------------------*/
+body.Cascades{
+    background-color: #f8e4b8;
+}
+body h1.Cascades{
+    font-size: 65px;
+    color: White;
+    background-color: #08192d;
+    text-align: center;
+    padding: 10px;
+    border: 3px solid black;
 
+}
+body p.Cascades{
+    margin-top: 25px;
+    font-size: 25px;
+    font-family: sans-serif;
+    line-height: 2;
+    color: black;
+}
+body img.Cascades{
+    float: left;
+    
+}
+/*  Body page for Maechanix----------------------------------------*/
+body.Mechanix{
+    background-color: #f8e4b8;
+}
+body h1.Mechanix{
+    font-size: 65px;
+    color: White;
+    background-color: #800020;
+    text-align: center;
+    padding: 10px;
+    border: 3px solid black;
+}
+body p.Mechanix{
+    margin-top: 25px;
+    font-size: 25px;
+    font-family: sans-serif;
+    line-height: 2;
+    color: black;
+}
+body img.Mechanix{
+    float: left;
+    border: 2px solid black;
+}
 /* --Slideshow CSS------------------------------------------- */
 
 /* Slideshow container */
